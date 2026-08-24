@@ -1,5 +1,11 @@
 # Smart AI Plug
 
+![Top-img](https://github.com/user-attachments/assets/5ac0f1da-6818-4c8d-b417-a88da1d11cab)
+
+![Side-img](https://github.com/user-attachments/assets/5ac0f1da-6818-4c8d-b417-a88da1d11cab)
+
+![Bot-img](https://github.com/user-attachments/assets/5ac0f1da-6818-4c8d-b417-a88da1d11cab)
+
 An ESP32-S3 based IoT smart plug designed for remote and scheduled control of electrical appliances.
 
 > **Project Status:** PCB Design Completed — Hardware Assembly and Testing Not Yet Performed.
