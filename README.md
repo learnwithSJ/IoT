@@ -118,6 +118,10 @@ Fabrication files are located in `Hardware/3-Manufacturing-Files/` and include:
 - **BOM (Bill of Materials)** - component list with values and part numbers
 - **CPL (Component Placement List)** - for SMT assembly
 
-## Author
+## Designed By
 
 **Shubhank**
+
+## Acknowledgements
+
+Special thanks to **Ampnics** for creating and sharing the original Zeen AI Plug project and providing the YouTube tutorial and open-source resources that helped me understand and recreate this project.
